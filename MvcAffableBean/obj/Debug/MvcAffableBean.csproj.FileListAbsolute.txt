@@ -1,0 +1,115 @@
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\csc.exe
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\vbc.exe
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\VBCSCompiler.exe
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\MvcAffableBean.dll.config
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\MvcAffableBean.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\MvcAffableBean.pdb
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\Antlr3.Runtime.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\EntityFramework.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\EntityFramework.SqlServer.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\Newtonsoft.Json.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.Helpers.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.Mvc.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.Optimization.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.Razor.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.WebPages.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.WebPages.Razor.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\WebGrease.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\EntityFramework.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\EntityFramework.SqlServer.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\Newtonsoft.Json.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.Helpers.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.Mvc.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.Optimization.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.Razor.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.WebPages.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\System.Web.WebPages.Razor.xml
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\bin\Antlr3.Runtime.pdb
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\obj\Debug\MvcAffableBean.dll
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\obj\Debug\MvcAffableBean.pdb
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\obj\Debug\MvcAffableBean.csprojResolveAssemblyReference.cache
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\obj\Debug\MvcAffableBean.Migrations.Initial.resources
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\obj\Debug\MvcAffableBean.csproj.GenerateResource.Cache
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\obj\Debug\MvcAffableBean.Migrations.UpdateCustomerOrder.resources
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\obj\Debug\MvcAffableBean.Migrations.ChangedCustomer.resources
+C:\Users\shakeel\documents\visual studio 2015\Projects\MvcAffableBean\MvcAffableBean\obj\Debug\MvcAffableBean.Migrations.ChangedTotal.resources
+E:\MvcAffableBean\trunk\MvcAffableBean\obj\Debug\MvcAffableBean.csprojResolveAssemblyReference.cache
+E:\MvcAffableBean\trunk\MvcAffableBean\obj\Debug\MvcAffableBean.Migrations.Initial.resources
+E:\MvcAffableBean\trunk\MvcAffableBean\obj\Debug\MvcAffableBean.Migrations.UpdateCustomerOrder.resources
+E:\MvcAffableBean\trunk\MvcAffableBean\obj\Debug\MvcAffableBean.Migrations.ChangedCustomer.resources
+E:\MvcAffableBean\trunk\MvcAffableBean\obj\Debug\MvcAffableBean.Migrations.ChangedTotal.resources
+E:\MvcAffableBean\trunk\MvcAffableBean\obj\Debug\MvcAffableBean.csproj.GenerateResource.Cache
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\csc.exe
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\csc.exe.config
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\csc.rsp
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\csi.exe
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\csi.rsp
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\System.AppContext.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\System.Collections.Immutable.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\System.IO.FileSystem.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\System.Reflection.Metadata.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\vbc.exe
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\vbc.exe.config
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\vbc.rsp
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\VBCSCompiler.exe
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\roslyn\VBCSCompiler.exe.config
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\MvcAffableBean.dll.config
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\MvcAffableBean.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\MvcAffableBean.pdb
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\MvcAffableBean.dll.CodeAnalysisLog.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\MvcAffableBean.dll.lastcodeanalysissucceeded
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\Antlr3.Runtime.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\EntityFramework.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\EntityFramework.SqlServer.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\Microsoft.Web.Infrastructure.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\Newtonsoft.Json.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.Optimization.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\WebGrease.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\Antlr3.Runtime.pdb
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\EntityFramework.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\EntityFramework.SqlServer.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\Newtonsoft.Json.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.Optimization.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\Microsoft.Web.Infrastructure.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\obj\Debug\MvcAffableBean.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\obj\Debug\MvcAffableBean.pdb
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.Helpers.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.Mvc.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.Razor.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.WebPages.Deployment.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.WebPages.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.WebPages.Razor.dll
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.Helpers.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.Mvc.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.Razor.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.WebPages.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.WebPages.Deployment.xml
+E:\MvcAffableBean\trunk\MvcAffableBean\bin\System.Web.WebPages.Razor.xml
